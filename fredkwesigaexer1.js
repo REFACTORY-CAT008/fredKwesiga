@@ -24,7 +24,7 @@ return greater
 
 return coursework
  //returns the value of 'coursework' and makes the 'coursework' value available to outer functions.
-
+ }
 
 ///Declare the function as 'avg' and pass one parameter 'a' to the function.
 function avg(a) 
