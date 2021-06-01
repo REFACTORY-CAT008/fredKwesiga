@@ -1,4 +1,7 @@
 //static valuables 
+//structured programming
+//in object orientation, variables become properties 
+//e.g {a: 25, b: 30, c: a + b}
 function add(){
     let a=25;
     let b=30;
