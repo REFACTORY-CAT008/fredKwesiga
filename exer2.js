@@ -5,7 +5,7 @@ use atleast 3 functions*/
 
 
 //Define a function taxes and assign it one parameter. 
-//Declare three variables that show the calculation of taxes
+//Declare three variables that show the calculation of taxes. 
 function taxes(gross){
 let nssf = (11/100)*gross;
 let paye = (30/100)*gross;
