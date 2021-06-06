@@ -19,3 +19,5 @@ function netsalary(mykaMoney){
     console.log(netsalary)
 }
 netsalary(5000000)
+
+
